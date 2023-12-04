@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **HenriVlasic/HenriVlasic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71F2D&background=193EFF00&random=false&width=435&lines=Welcome+to+Henri+Vlašić's+Github!)](https://git.io/typing-svg)
+
+![Henri Vlašić's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriVlasic&show_icons=true&theme=transparent)
